@@ -72,7 +72,7 @@ Here’s how your repo should look:
 
 onnx-runtime-tutorial/
 
-├── license
+├── LICENSE
 
 ├── README.md
 
