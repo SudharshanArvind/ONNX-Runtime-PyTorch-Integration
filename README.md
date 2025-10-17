@@ -72,9 +72,11 @@ Here’s how your repo should look:
 
 onnx-runtime-tutorial/
 
+├── license
+
+├── README.md
+
 ├── onnx_testing.py
 
-├── requirements.txt
-
-└── README.md
+└── requirements.txt
 
