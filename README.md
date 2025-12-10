@@ -71,12 +71,9 @@ This project is released under the MIT License.
 Here’s how your repo should look:
 
 onnx-runtime-tutorial/
-
+```
 ├── LICENSE
-
 ├── README.md
-
 ├── onnx_testing.py
-
 └── requirements.txt
-
+```
